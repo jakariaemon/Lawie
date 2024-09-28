@@ -40,6 +40,6 @@ This is our POC app to demonstrate the idea to Simplify Legal Process with Domai
 
 ## For More Info and Contact
 If you wish to learn more about the hustlers :D behind this idea and the total journey of building this amazing idea,
-please visit our website ###[lawie.app](https://lawie.app/)
+please visit our ***[website](https://lawie.app/)***
 
 
