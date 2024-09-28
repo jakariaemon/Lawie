@@ -1,15 +1,21 @@
-# ``LawAsisstant``
+## The Lawie - POC for Simplifying Legal Processes with AI​
+This is our POC app to demonstrate the idea to Simplify Legal Process with Domain Specific 
 
-<!--@START_MENU_TOKEN@-->Summary<!--@END_MENU_TOKEN@-->
+## Architecture
+ We have used MVC for this POC app
+ 
+## Libraries
+- PKHUD
+- FRONTBLASTER
+- ALAMOFIRE
+- IQKeyboardManagerSwift
+- LOTTI-IOS
+- REVENUECAT for "In app purchase"
+  
 
-## Overview
-
-<!--@START_MENU_TOKEN@-->Text<!--@END_MENU_TOKEN@-->
-
-## Topics
-
-### <!--@START_MENU_TOKEN@-->Group<!--@END_MENU_TOKEN@-->
-
-- <!--@START_MENU_TOKEN@-->``Symbol``<!--@END_MENU_TOKEN@-->
+## How to run
+- Install cocoapods if you MAC didn't `brew install cocoapods`
+- Open `LawAsisstant.xcworkspace`
+- Cmd + R to run
 
 
