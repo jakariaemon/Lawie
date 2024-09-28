@@ -1,4 +1,4 @@
-## The Lawie - POC for Simplifying Legal Processes with AI​
+## [The Lawie - POC for Simplifying Legal Processes with AI​](https://apps.apple.com/us/app/lawie/id6670359342?uo=2)
 This is our POC app to demonstrate the idea to Simplify Legal Process with Domain Specific 
 
 ## Build and Runtime Requirements
