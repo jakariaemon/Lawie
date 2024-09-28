@@ -4,4 +4,5 @@ Discover LAWIE, the innovative iOS app designed to automate guided legal data ge
 
 
 ## Backend Architecture for Automatic Training with Gudide Synthetic Dataset Generation 
-![Picture1](https://github.com/user-attachments/assets/8b591eb8-5d29-44ae-bcc3-0aab78613a72)
+
+![bsnw](https://github.com/user-attachments/assets/61b4dfb4-9154-4b98-a66a-0b5ff8cc3e97)
