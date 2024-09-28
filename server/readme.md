@@ -125,8 +125,4 @@ Make sure to replace <token> with the actual token you received. This token will
 |----------------------|------------|---------------------------|-------------------------------|---------------------------------------------------|-------------------------------------------|
 | `/contact-us`        | `POST`     | Contact support.          | None                          | `{ "email": <string>, "message": <string> }`       | `200`: Successful contact, `422`: Validation error. |
 
-## Error Handling
 
-All endpoints may return validation errors with a `422` status code, containing detailed information about the invalid request parameters.
-
-For more detailed API documentation, refer to the OpenAPI specifications or contact us for assistance.
