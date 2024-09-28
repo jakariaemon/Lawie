@@ -6,3 +6,10 @@ Discover LAWIE, the innovative iOS app designed to automate guided legal data ge
 ## Backend Architecture for Automatic Training with Gudide Synthetic Dataset Generation 
 
 ![Picture1](https://github.com/user-attachments/assets/33261ea7-04d1-4da2-871d-c832a7d3b1c3)
+
+# Please see the documentation for 
+
+- [iOS application]()
+- [Backend service](https://github.com/jakariaemon/Lawie/tree/main/server#running-the-backend-service-with-docker)
+- [Dashboard](https://github.com/jakariaemon/Lawie/tree/main/Dashboard#dashboard)
+## Visit our [website here](https://www.lawie.app/).
