@@ -51,7 +51,7 @@ This documentation provides a comprehensive guide to the available endpoints and
 
 To interact with the API, you must first obtain an access token. This token is necessary for authenticating your requests. You can get this token by logging in with valid credentials via the `/login` endpoint. Once authenticated, you can access various endpoints provided by the API, which follow standard RESTful principles and return JSON-formatted responses. 
 
-![image](https://github.com/user-attachments/assets/3e4d46cc-0e2b-4f23-b9c3-6edacdce5cae)
+<img width="1117" alt="image" src="https://github.com/user-attachments/assets/5bdfa855-46d3-4296-aed4-d57f2445a944">
 
 
 ## Authentication
