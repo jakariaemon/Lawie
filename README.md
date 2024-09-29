@@ -8,14 +8,14 @@ Discover LAWIE, the innovative iOS app designed to automate guided legal data ge
 ## Repository Structure 
 We have organized the repository as follows.
 
-### Dashboard 
-User will get an overview of the data that used to train the adapter through the dashboard. See the documentation of dashboard [here](https://github.com/jakariaemon/Lawie/tree/main/Dashboard#dashboard).
-
 ### iOSProject 
 We developed an iOS application to give a smooth user experience to the user. The documentation of iOSProject is [here](https://github.com/jakariaemon/Lawie/tree/main/iOSProject#the-lawie---poc-for-simplifying-legal-processes-with-ai).
 
-### server 
+### Server 
 This is the main backbone of our project. See the complete documentation [here](https://github.com/jakariaemon/Lawie/tree/main/server#running-the-backend-service-with-docker). 
+
+### Dashboard 
+User will get an overview of the data that used to train the adapter through the dashboard. See the documentation of dashboard [here](https://github.com/jakariaemon/Lawie/tree/main/Dashboard#dashboard).
 
 ## Backend Architecture for Automatic Training with Gudide Synthetic Dataset Generation 
 
